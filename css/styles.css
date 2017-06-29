@@ -1,0 +1,20 @@
+p{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: cursive;
+  color:blue;
+  border: 2px solid black;
+}
+
+
+li{
+  color: red;
+  padding: 4px;
+  background-color: yellow;
+  margin: auto;
+}
+
+h2{
+  color:  Green;
+  font-size: 60px;
+}
